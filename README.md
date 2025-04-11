@@ -37,3 +37,8 @@ CREATE USER AND ORGANIZATIONAL GROUPS
 ADD "COMPUTERS" TO THE DOMAIN
 
 <img width="547" alt="image" src="https://github.com/user-attachments/assets/3021089b-9e7c-4bcf-b215-7400eab0b670" />
+
+
+ADD USERES USING POWERSHELL AD
+
+<img width="681" alt="image" src="https://github.com/user-attachments/assets/1f260320-d77f-4c65-82f5-7e14304184bb" />
