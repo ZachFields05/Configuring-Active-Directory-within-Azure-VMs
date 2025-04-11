@@ -22,3 +22,18 @@ Create the Client VM (Windows 10) named “Client-1”
 <img width="439" alt="image" src="https://github.com/user-attachments/assets/a6b9e214-4c6c-4798-96a7-d4daa76c95c1" />
 
 
+INSTALL ACTIVE DIRECTORY
+
+
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/721bf0b8-6dcd-41ed-b565-cbb559e51bc1" />
+
+CREATE USER AND ORGANIZATIONAL GROUPS
+
+
+
+
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/78a7a350-2ad2-4fce-a635-c8a13e602fbe" />
+
+ADD "COMPUTERS" TO THE DOMAIN
+
+<img width="547" alt="image" src="https://github.com/user-attachments/assets/3021089b-9e7c-4bcf-b215-7400eab0b670" />
