@@ -41,4 +41,5 @@ ADD "COMPUTERS" TO THE DOMAIN
 
 ADD USERES USING POWERSHELL AD
 
-<img width="681" alt="image" src="https://github.com/user-attachments/assets/1f260320-d77f-4c65-82f5-7e14304184bb" />
+
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/00047258-84d6-4926-89b8-fbcc716a3ee8" />
